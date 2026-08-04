@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 400 400"
+     role="img"
+     aria-labelledby="title desc">
+  <title id="title">Elemen logo UNPAR</title>
+  <desc id="desc">Elemen dekoratif berbentuk lengkung segitiga membulat, berwarna kuning, dengan latar transparan.</desc>
+
+  <path
+    fill="#FFEB00"
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="
+      M200 18
+      C274 62 340 145 360 257
+      C365 286 369 317 371 343
+      C326 369 267 384 200 384
+      C133 384 74 369 29 343
+      C31 317 35 286 40 257
+      C60 145 126 62 200 18
+      Z
+
+      M200 62
+      C145 99 95 169 79 265
+      C76 281 73 300 71 316
+      C108 333 151 342 200 342
+      C249 342 292 333 329 316
+      C327 300 324 281 321 265
+      C305 169 255 99 200 62
+      Z
+    "
+  />
+</svg>
